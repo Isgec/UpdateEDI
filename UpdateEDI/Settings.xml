@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StartupPath />
+  <SerializedAt>C:\Data\Projects15.NET\UpdateEDI\UpdateEDI\bin\Debug\Settings.xml</SerializedAt>
+  <BaaNLive>0</BaaNLive>
+  <JoomlaLive>1</JoomlaLive>
+</ConfigFile>
