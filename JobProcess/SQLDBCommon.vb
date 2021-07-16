@@ -15,7 +15,7 @@ Namespace SIS.SYS.SQLDatabase
       If BaaNLive Then
         Return "Data Source=ganesha;Initial Catalog=inforerpdb;Integrated Security=False;User Instance=False;Persist Security Info=True;User ID=lalit;Password=scorpions"
       Else
-        Return "Data Source=192.9.200.38;Initial Catalog=inforerpdb;Integrated Security=False;User Instance=False;Persist Security Info=True;User ID=lalit;Password=scorpions"
+        Return "Data Source=gstdrill04;Initial Catalog=inforerpdb;Integrated Security=False;User Instance=False;Persist Security Info=True;User ID=lalit;Password=scorpions"
       End If
     End Function
     Public Shared Function GetConnectionString() As String
